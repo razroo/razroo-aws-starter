@@ -1,0 +1,19 @@
+{
+  "name": "razroo-aws-starter",
+  "version": "1.0.0",
+  "description": "Razroo Starter Repo for AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razroo/razroo-aws-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razroo/razroo-aws-starter/issues"
+  },
+  "homepage": "https://github.com/razroo/razroo-aws-starter#readme"
+}
